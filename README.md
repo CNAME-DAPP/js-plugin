@@ -7,3 +7,9 @@ STEPS
 1) Clone repository
 2) Open button.html
 3) Enter username (Wallet address field will be populated)
+
+
+TODO::
+Remove X after "useraname not found error"
+Add buzz animation if username not found
+Change font
